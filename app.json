@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Palmagine App",
+    "slug": "palmagine-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "web": {
+      "output": "single"
+    }
+  }
+}
